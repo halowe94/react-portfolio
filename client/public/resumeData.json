@@ -62,28 +62,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs"
+        "name": "HTML5, CSS",
+        "level": "90%"
       },
       {
-        "name": "CSS"
+        "name": "Git",
+        "level": "80%"
       },
       {
-        "name": "Git"
+        "name": "Javascript, Jquery",
+        "level": "70%"
       },
       {
-        "name": "Javascript"
+        "name": "Node",
+        "level": "80%"
       },
       {
-        "name": "Node"
+        "name": "MongoDB, MySQL",
+        "level": "65%"
       },
       {
-        "name": "HTML5"
-      },
-      {
-        "name": "MongoDB"
-      },
-      {
-        "name": "MySQL"
+        "name": "ReactJs",
+        "level": "50%"
       }
     ]
   },
