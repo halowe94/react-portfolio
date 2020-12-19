@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Haley Lowe",
+    "occupation": "Full Stack Web Developer",
+    "description": "Creative Problem Solver Utilizing Technology to Meet Real World Needs",
+    "image": "Hlowe.jpg",
+    "bio": "My name is Haley, I am a MERN stack developer. Currently I'm continuing to grow my skills in Front-end and Back-end development",
+    "contactmessage": "I'd love to connect with you.",
+    "email": "haleylowe@theseattleschool.edu",
+    "address": {
+      "city": "Sacramento",
+      "state": "CA"
+    },
+    "website": "insert website",
+    "resumedownload": "https://docs.google.com/document/d/1eEBUSxbIY1qtP9oSp-HU5vgTDgQ7AaN9EySJJJ5M404/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/haley-lowe-34b460133/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/halowe94",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "4 years of experience with youth overseas and in the states with differing ability levels. I am ready to use my experiences with a myriad of people and cultures to build useful and innovative web applications",
+    "education": [
+      {
+        "school": "UC Davis Continuing and Professionsal Education",
+        "degree": "Full Stack Web Development Certificate",
+        "graduated": "December 2020",
+        "description": "Six month intensive program"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "Node"
+      },
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "MySQL"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
