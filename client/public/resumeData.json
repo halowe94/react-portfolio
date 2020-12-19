@@ -128,8 +128,12 @@
         "user": "Central Grader"
       },
       {
-        "text": "Your javascript is solid and you've done an excellent job on this challenge. You included the basic and bonus requirements and have done a great job of showcasing them in your walkthrough video. Looking at your code you've followed the major best practices for structuring your files including your logic, and your database. Impressive!",
+        "text": "Your javascript is solid and you've done an excellent job on this challenge. You included the basic and bonus requirements and have done a great job of showcasing them . . . Looking at your code you've followed the major best practices for structuring your files including your logic, and your database. Impressive!",
         "user": "Central Grader"
+      },
+      {
+        "text": "Nice work, Haley! . . . [Y]ou were able to generate a readme based on the criteria specified from the node.js inquirer prompt.",
+        "user":"Central Grader"
       }
     ]
   }
