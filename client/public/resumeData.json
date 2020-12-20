@@ -54,10 +54,16 @@
         "description": "Cross-trained in multiple departments to fulfill customer orders"
       },
       {
-        "company": "Adevtures in Missions",
+        "company": "Adventures in Missions",
         "title": "Team Leader, Team Treasurer",
         "years": "Jan 2015 - April 2020",
         "description": "4 temporary assignments with teams of young adults over the course of 5 years in 18 countries"
+      },
+      {
+        "company": "Kids Overcoming Inc",
+        "title": "Registered Behavior Technician",
+        "years": "Jan 2018 - Jul 2018",
+        "description": "Trained new employees and maintained data collection for behavior management program"
       }
     ],
     "skills": [
