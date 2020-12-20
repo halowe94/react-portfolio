@@ -200,7 +200,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: rgb(255, 72, 0);
 }
 
 /* ------------------------------------------------------------------ */
@@ -235,7 +235,7 @@ ul#nav li.current a {
 #about .profile-pic {
   position: relative;
   width: 200px;
-  height: 240px;
+  height: 250px;
   border-radius: 100%;
 }
 #about .contact-details {
