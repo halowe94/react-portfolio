@@ -703,7 +703,9 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: #1f1f1f
+    url(../images/testimonials-sergey-zolkin-_UeY8aTI6d0-unsplash.jpg) no-repeat
+    center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -716,6 +718,7 @@ call-to-action .button {
 #testimonials .text-container {
   padding-top: 96px;
   padding-bottom: 66px;
+  background: rgba(0, 0, 0, 0.8);
 }
 #testimonials h1 {
   font: 18px/24px "opensans-bold", sans-serif;
