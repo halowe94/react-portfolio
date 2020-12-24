@@ -104,22 +104,22 @@
         "url": "https://halowe94.github.io/employeeDirectory/"
       },
       {
-        "title": "DInner Table of Continents",
-        "category": "NoSql Application that shows a popular dish on each continent",
+        "title": "MySQL Dinner Table of Continents",
+        "category": "MySql Application that shows a popular dish on each continent",
         "image": "project2.jpg",
         "url": "https://stark-stream-40899.herokuapp.com/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "MongoDB Workout Tracker",
+        "category": "MongoDB and Express App that tracks various workouts",
+        "image": "fitness-tracker.jpg",
+        "url": "https://workout-tracker-mongo123.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Progressive Web App Budget Tracker",
+        "category": "PWA that utilizes MongoDB ",
+        "image": "budget-tracker.jpg",
+        "url": "https://indexed-db-gallery.herokuapp.com/"
       },
       {
         "title": "Netflix Clone",
