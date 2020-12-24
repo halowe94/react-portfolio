@@ -100,14 +100,14 @@
       {
         "title": "React Employee Directory",
         "category": "React App to filter and sort employees",
-        "image": "./images/portfolio/employeeDir.png",
+        "image": "employeeDir.png",
         "url": "https://halowe94.github.io/employeeDirectory/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "DInner Table of Continents",
+        "category": "NoSql Application that shows a popular dish on each continent",
+        "image": "project2.jpg",
+        "url": "https://stark-stream-40899.herokuapp.com/"
       },
       {
         "title": "Facebook Clone with React",
