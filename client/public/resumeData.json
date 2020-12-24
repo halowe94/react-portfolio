@@ -98,10 +98,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "React Employee Directory",
+        "category": "React App to filter and sort employees",
+        "image": "./images/portfolio/employeeDir.png",
+        "url": "https://halowe94.github.io/employeeDirectory/"
       },
       {
         "title": "MERN Stack TikTok Clone",
