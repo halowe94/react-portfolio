@@ -122,6 +122,12 @@
         "url": "https://indexed-db-gallery.herokuapp.com/"
       },
       {
+        "title": "Node CLI ",
+        "category": "Inquirer Node prompt to build a team rendered on html",
+        "image": "nodeCLI3.jpg",
+        "url": "https://github.com/halowe94/nodeCLI"
+      },
+      {
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
