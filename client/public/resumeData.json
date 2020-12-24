@@ -128,10 +128,10 @@
         "url": "https://github.com/halowe94/nodeCLI"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "JourneyOn Javascript and API Application",
+        "category": "JS App for weather and restaurants in a given location",
+        "image": "journeyOn.png",
+        "url": "https://halowe94.github.io/JourneyOn/"
       }
     ]
   },
