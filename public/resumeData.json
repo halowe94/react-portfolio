@@ -2,7 +2,7 @@
   "main": {
     "name": "Haley Lowe",
     "occupation": "Full Stack Web Developer",
-    "description": "utilizing ceative problem solving to build web applications that meet real world needs",
+    "description": "utilizing creative problem solving to build web applications that meet real world needs",
     "image": "Hlowe.jpg",
     "bio": "My name is Haley, I am a MERN stack developer. I want to use my mind for inquiry and the ability to learn quickly to make a positive impact through technology. I am eager to grow my skills in Web Development.",
     "contactmessage": "I'd love to connect with you.",
@@ -12,7 +12,7 @@
       "state": "CA",
       "zip": "95838"
     },
-    "website": "insert website",
+    "website": "",
     "resumedownload": "https://docs.google.com/document/d/1eEBUSxbIY1qtP9oSp-HU5vgTDgQ7AaN9EySJJJ5M404/edit?usp=sharing",
     "social": [
       {
@@ -34,7 +34,7 @@
         "school": "UC Davis Continuing and Professionsal Education",
         "degree": "Full Stack Web Development Certificate",
         "graduated": "December 2020",
-        "description": "Six month intensive program"
+        "description": "Six month intensive program for fullstack [MERN] development"
       },
       {
         "school": "Colardo Christian University",
