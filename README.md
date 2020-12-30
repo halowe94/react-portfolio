@@ -47,7 +47,7 @@ N/A
 
 ## Deployed Application
 
-https://halowe94.github.io/react-portfolio/
+https://lowe-react-portfolio.netlify.app
 
 ## Questions
 
